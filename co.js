@@ -29,6 +29,6 @@ function co(fn) {
 }
 
 co(test).then((data) => {
-  console.log("最终结果")
+  console.log("最终结果!!!!!")
   console.log(data)
 })
