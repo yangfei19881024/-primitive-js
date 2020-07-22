@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.2",
+    "node-emoji": "^1.10.0",
+    "ora": "^4.0.4"
+  }
 }
